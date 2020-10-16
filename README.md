@@ -14,7 +14,7 @@
 
 
 1. About TCS NQT and Syllabus
-![GitHub Logo](/redux/src/logo.png)
+  ![GitHub Logo](/redux/src/logo.svg)
 
 
 
