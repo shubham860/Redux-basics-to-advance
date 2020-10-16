@@ -13,3 +13,8 @@
 8. Questions, If Any
 
 
+1. About TCS NQT and Syllabus
+![GitHub Logo](/redux/src/logo.png)
+
+
+
